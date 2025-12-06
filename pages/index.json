@@ -1,0 +1,62 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Tarun Bhardwaj",
+    "subtitle": "I’m a Software Engineer with a strong foundation in full-stack development and problem-solving."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/profilepic.jpeg",
+    "primary": "I’m a recent graduate in Computer Science from York University, with a strong technical foundation in software development and IT systems support. I am proficient in object-oriented programming (Java, Python), and also have experience working with C, React Native, JavaScript, HTML/CSS, XML, Bash, and Git. My technical toolkit includes relational databases (SQL), data visualization (Power BI), and advanced Excel for reporting and automation. I am skilled in writing clean, maintainable code, debugging complex issues, and collaborating effectively through version control systems like Git.",
+    "secondary": "Currently, I work as an IT Support Technician at Gap Inc., where I play an integral role in supporting the day-to-day operations of the new Distribution Centre in London, Ontario. I provide comprehensive, end-to-end technical support across a broad range of devices, enterprise systems, and IT infrastructure — from diagnosing user hardware issues to ensuring system stability and performance. My goal is to maintain seamless operations while fostering a proactive, solutions-oriented support environment. "
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "CPU4U - E-commerce Website",
+        "description": "CPU4U is a full-featured e-commerce web application built to simulate a real-world online store for computer components. The platform enables users to browse, compare, and purchase a wide range of computer hardware, including CPUs, GPUs, RAM, storage devices, and peripherals, all through an intuitive and user-friendly interface.",
+        "tech":  "Front-end: HTML, CSS, JavaScript | Back-end: Java, JSP (Java Server Pages) | Database: MySQL | Development Tools: VS Code, Apache Tomcat, MySQL Workbench / phpMyAdmin",
+        "url": "https://github.com/tarunb4/CPU4U",
+        "image": "/CPU4U_new.png"
+      },
+      {
+				"title": "Health Diary - Mobile Application",
+				"description": "Health Diary a comprehensive mobile application focused on helping users actively track, analyze, and improve their overall health and wellness. The app was designed to meticulously log key health metrics such as daily activity levels, water intake, sleep patterns, and other personalized data points. By providing a centralized platform for health tracking, the application empowers users to become more aware of their habits and make data-driven decisions to support their individual wellness goals.",
+				"tech": "Front-end: XML | Back-end: Java | Development Tools: Android Studio",
+        "url": "https://github.com/tarunb4/Health-Diary",
+				"image": "/health-diary.png"
+			},
+      {
+				"title": "Cov-ID - Mobile Application",
+				"description": "Cov-ID a collaborative mobile application aimed at reducing the spread of COVID-19 by providing a secure and convenient way to verify individuals’ health status. The app integrates NFC (Near Field Communication) technology to allow users to carry a digital health pass in the form of an NFC card. When scanned at participating businesses, venues, or public locations, the app instantly displays the user’s latest COVID-19 test results and vaccination records, ensuring safe entry and compliance with public health guidelines. The project emphasized team-based development, combining expertise in mobile development, secure data management, and user experience design to create a reliable, scalable, and user-friendly solution.",
+				"tech": "Front-end: XML | Back-end: Java | Development Tools: Android Studio | Features: NFC, Google Maps API, Geocoding",
+        "url": "https://github.com/tarunb4/cov-ID-yuHacks-2021",
+				"image": "/covID.png"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "xnnezwaw"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/tarun-bhardwaj4-/",
+		"twitter": "https://x.com/Tarunb2002",
+		"github": "https://github.com/tarunb4"
+	}
+}
