@@ -2,7 +2,9 @@
 
 This repository contains the source code for my personal portfolio website, where I showcase who I am, my background, and some of the projects I’ve built in software and mobile development.
 
-The site is built to be simple, responsive, and easy to update using a JSON configuration file. https://tarun-bhardwaj.vercel.app/
+The site is built to be simple, responsive, and easy to update using a JSON configuration file. 
+
+Here is my website: https://tarun-bhardwaj.vercel.app/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🔧 Tech Stack
