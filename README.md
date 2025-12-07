@@ -4,7 +4,8 @@ This repository contains the source code for my personal portfolio website, wher
 
 The site is built to be simple, responsive, and easy to update using a JSON configuration file. https://tarun-bhardwaj.vercel.app/
 
-🔧 Tech Stack
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🔧 Tech Stack
 
 React
 
@@ -14,7 +15,8 @@ JavaScript
 
 JSON (for content/configuration)
 
-📁 What’s in this project?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 📁 What’s in this project?
 
 Hero Section – Name, subtitle, intro
 
