@@ -20,7 +20,7 @@
   "about": {
     "title": "About me",
     "image": "/profilepic.jpeg",
-    "primary": "I’m a Computer Science graduate from York University with expertise in software development (Java, Python, C, React Native, JavaScript, HTML/CSS, XML, Bash, Git) and experience with SQL, Power BI, and advanced Excel, skilled in writing clean code, debugging, and collaborating via version control. Currently, as an IT Support Technician at Gap Inc., I provide end-to-end technical support across devices, systems, and IT infrastructure, ensuring seamless operations and a solutions-oriented environment.",
+    "primary": "I’m a recent Computer Science graduate from York University with strong skills in object-oriented programming, data analysis, and IT systems support. I’m proficient in Java, Python, SQL, Power BI, and advanced Excel, with experience writing clean, maintainable code and using Git for version control. Currently, I work as an IT Support Technician at Gap Inc., providing end-to-end technical support to ensure smooth operations at their new Distribution Centre in London, Ontario.",
     "secondary": ""
   },
   "projects": {
