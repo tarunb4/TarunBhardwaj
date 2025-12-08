@@ -71,7 +71,7 @@ const About = () => {
           </div>
           <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
             <a
-              href={"/Tarun Bhardwaj Resume.pdf"}
+              href={"/Tarun_Bhardwaj_Resume_Updated.pdf"}
               target="_blank"
               className="about__resume text-white text-l"
             >
