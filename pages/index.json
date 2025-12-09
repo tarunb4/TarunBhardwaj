@@ -35,7 +35,7 @@
       },
       {
 				"title": "Health Diary - Mobile Application",
-				"description": "Health Diary a comprehensive mobile application focused on helping users actively track, analyze, and improve their overall health and wellness. The app was designed to meticulously log key health metrics such as daily activity levels, water intake, sleep patterns, and other personalized data points. By providing a centralized platform for health tracking, the application empowers users to become more aware of their habits and make data-driven decisions to support their individual wellness goals.",
+				"description": "Health Diary is a comprehensive mobile application focused on helping users actively track, analyze, and improve their overall health and wellness. The app was designed to meticulously log key health metrics such as daily activity levels, water intake, sleep patterns, and other personalized data points. By providing a centralized platform for health tracking, the application empowers users to become more aware of their habits and make data-driven decisions to support their individual wellness goals.",
 				"tech": "Front-end: XML | Back-end: Java | Development Tools: Android Studio",
         "url": "https://github.com/tarunb4/Health-Diary",
 				"image": "/health-diary.png"
