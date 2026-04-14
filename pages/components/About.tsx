@@ -10,6 +10,7 @@ const About = () => {
       { name: "Python", emoji: "🐍" },
       { name: "Java", emoji: "☕" },
       { name: "C", emoji: "💻" },
+      { name: "Ruby", emoji: "💎" },
       { name: "React Native", emoji: "⚛️" },
       { name: "JavaScript", emoji: "🟨" },
       { name: "HTML/CSS", emoji: "🌐" },
