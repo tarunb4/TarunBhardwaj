@@ -4,6 +4,10 @@
 			"title": "About",
 			"url": "http://www.example.com/about"
 		},
+    {
+      "title": "Experience",
+      "url": "http://www.example.com/experience"
+    },
 		{
 			"title": "Projects",
 			"url": "http://www.example.com/portfolio"
@@ -58,5 +62,44 @@
 		"linkedin": "https://www.linkedin.com/in/tarun-bhardwaj4-/",
 		"twitter": "https://x.com/Tarunb2002",
 		"github": "https://github.com/tarunb4"
-	}
+	},
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "role": "IT Support Technician",
+        "company": "Gap Inc.",
+        "period": "June 2025 - Present",
+        "location": "London, ON",
+        "summary": "Support warehouse technology and internal systems in a fast-paced distribution centre environment while also contributing to internal tooling and web-based operational improvements.",
+        "highlights": [
+          "Collaborated with the Software Engineering team on a company-wide internal portal redesign used across Gap Inc. Distribution Centres, contributing to a modern scalable web application using Astro, HTML/CSS, Tailwind CSS, JavaScript, JSON, and MySQL.",
+          "Developed and maintained internal automation and support tools that streamlined issue resolution and reduced operational downtime by 20% across warehouse endpoints.",
+          "Built scripts and workflow improvements using ServiceNow, Jira, and Nexthink APIs and data outputs, reducing incident resolution time by 15% and improving monitoring efficiency."
+        ]
+      },
+      {
+        "role": "Software Engineer",
+        "company": "BuyWise Plus",
+        "period": "Jan 2023 - Apr 2024",
+        "location": "Toronto, ON",
+        "summary": "Built internal tools and frontend features that improved operational visibility, reduced manual work, and supported better data consistency across business processes.",
+        "highlights": [
+          "Built an internal employee and device tracking web tool using React, TypeScript, JavaScript, and HTML/CSS, reducing manual tracking effort by 30% and improving visibility for 20+ employees.",
+          "Developed modular reusable UI components and optimized frontend performance to maintain a responsive and maintainable user experience.",
+          "Implemented data validation and synchronization logic to maintain consistency across inventory, transactions, and employee records."
+        ]
+      },
+      {
+        "role": "Acting Lead and Daily Operations Manager",
+        "company": "Banana Republic",
+        "period": "May 2024 - June 2025",
+        "location": "Vaughan, ON",
+        "summary": "Led daily operations and team execution in a high-volume retail environment, focusing on performance, coordination, and process improvement.",
+        "highlights": [
+          "Led and coordinated a team of 40+ employees, driving execution against performance and revenue targets through data-informed decision-making and process improvements."
+        ]
+      }
+    ]
+  }
 }
